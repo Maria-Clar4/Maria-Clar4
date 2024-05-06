@@ -2,7 +2,7 @@
 
 Meu nome é Maria Clara
 
--Estou estudando na Alura (https://www.alura.com.br)
+-Estou estudando na Alura https://www.alura.com.br
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -13,4 +13,4 @@ Meu nome é Maria Clara
 mariaclaratambolim@gmail.com
 
 
-![]()
+![]()https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif
